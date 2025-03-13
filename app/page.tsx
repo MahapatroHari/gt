@@ -5,6 +5,7 @@ export default function Home() {
     <div className={styles.page}>
     Nothin here 
     01
+    02
     </div>
   );
 }

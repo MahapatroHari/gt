@@ -6,7 +6,7 @@ import Xarrow from 'react-xarrows';
 const FlowPage = () => {
   return (
     <div className={styles.container}>
-      <h1 className={styles.heading}>Flow Page of Today</h1>
+      <h1 className={styles.heading}>Flow Page of</h1>
 
       <div className={styles.pageContent}>
         <div className={styles.parentSection}>
